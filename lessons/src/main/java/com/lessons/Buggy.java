@@ -24,7 +24,7 @@ public class Buggy {
 
 		for (int j = 0; j < chars.length; j++) {
 			System.out.print(chars[j]);
-
+			//[w,e,l,c,o,m,e,!]
 		}
 		System.out.println("\n\n");
 
