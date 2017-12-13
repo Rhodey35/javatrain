@@ -1,7 +1,7 @@
 package com.lessons.core;
 
 public enum OliveNameEnum {
-	KALAMATA("Catalina"),LIGURIAN("Ligurian");
+	KALAMATA("Kalamata"),LIGURIAN("Ligurian");
 	
 	private String name;
 	OliveNameEnum(String name){

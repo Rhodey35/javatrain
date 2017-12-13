@@ -11,6 +11,9 @@ public class MyMainOliveClass {
 	olives.add(new OlivemeSubClass(OliveNameEnum.KALAMATA, 0x2E0854, 3));
 	olives.add(new OlivemeSubClass(OliveNameEnum.KALAMATA, 0x2E0854, 3));
 	olives.add(new OlivemeSubClass(OliveNameEnum.KALAMATA, 0x2E0854, 3));	
+	olives.add(new OlivemeSubClass(OliveNameEnum.KALAMATA, 0x2E0854, 3));
+	olives.add(new OlivemeSubClass(OliveNameEnum.KALAMATA, 0x2E0854, 3));
+	olives.add(new OlivemeSubClass(OliveNameEnum.KALAMATA, 0x2E0854, 3));	
 	olives.add(new OlivemeSubClass(OliveNameEnum.LIGURIAN, 0x000000, 2));
 	olives.add(new OlivemeSubClass(OliveNameEnum.LIGURIAN, 0x000000, 2));
 	
